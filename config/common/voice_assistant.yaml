@@ -41,7 +41,7 @@ micro_wake_word:
       id: hey_jarvis
     - model: okay_nabu
       id: okay_nabu 
-    - model: https://github.com/r2tea2/haha-voice/blob/main/english/hey_friday.json
+    - model: https://raw.githubusercontent.com/r2tea2/haha-voice/21a447a9ea301324662533d07012579f7a719442/english/hey_friday.json
       id: hey_friday
     - model: https://github.com/kahrendt/microWakeWord/releases/download/stop/stop.json
       id: stop
